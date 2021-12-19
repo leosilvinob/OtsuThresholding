@@ -111,6 +111,7 @@ def thresholding(image: np.ndarray) -> np.ndarray:
 <div align="center">
  	<img src="https://raw.githubusercontent.com/leosilvinob/Asa-mini/main/otsu.png" width="40%" style="display: inline-block;">
 </div>
+																  
 ## Conclusão
 Neste projeto foi exposto as caracteristicas da limiarização pelo método de Otsu, assim como seu embasamento matemático, pseudocódigo e seu seu código em *Python* para implementação.
 
