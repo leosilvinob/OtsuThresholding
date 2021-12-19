@@ -104,7 +104,7 @@ def thresholding(image: np.ndarray) -> np.ndarray:
   index_of_max_val = np.argmax(inter_class_variance)
 
   return bin_mids[:-1][index_of_max_val]
- 
+ ```
  <div align="center">
  	<img src="https://github.com/leosilvinob/Asa-mini/blob/main/xmascat.jpg?raw=true" width="40%" style="display: inline-block;">
 </div>
