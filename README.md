@@ -3,10 +3,6 @@
 #### Trainee da equipe de Inteligência Artifical @ Asa Branca Aerospace
 
 ## Introdução
-## Introdução
-<div align="center">
-	<img src="https://user-images.githubusercontent.com/62074916/145666647-7fe90979-206f-4eeb-8ec2-c077ff34c725.png" title="threshold" width="60%"/>
-</div>
 
  Limiarização é um processo de segmentação de imagens que se baseia na diferença dos níveis de cinza que compõe diferentes objetos de uma imagem. 
   A partir de um limiar estabelecido de acordo com as características dos objetos que se quer isolar, a imagem pode ser segmentada em dois grupos: o grupo de pixels com níveis de cinza abaixo do limiar e o grupo de pixels com níveis de cinza acima do limiar. Se a intensidade do pixel da imagem de entrada for superior ao do limiar, o pixel é marcado como branco e se o pixel de entrada for menor, ele é marcado como preto.
